@@ -21,7 +21,13 @@ function certificate() {
               alt="..."
             />
           </div>
-
+          <div className="carousel-item">
+            <img
+              src="/portfolio/media/images/deloitte_job_simulation_coding_development_certificate_page-0001.jpg"
+              className="d-block w-100 certificate-img"
+              alt="..."
+            />
+          </div>
           <div className="carousel-item">
             <img
               src="/portfolio/media/images/Internshipcertificate.jpg"
