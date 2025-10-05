@@ -35,7 +35,9 @@ function Education() {
             <td>Product mangement & Agentic AI</td>
             <td>
               IIT Patna &nbsp;
-              <a href="/media/images/IITpatnaOfferLetter.jpg">Offer letter</a>
+              <a href="/portfolio/media/images/IITpatnaOfferLetter.jpg">
+                Offer letter
+              </a>
             </td>
             <td>6 month duration</td>
             <td>Exams pending</td>

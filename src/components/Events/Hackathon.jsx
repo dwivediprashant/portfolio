@@ -14,7 +14,10 @@ function Hackathon() {
               given a problem statement and built a functional product from
               scratch within the competition period. On <i>30-31 August 2025</i>
             </p>
-            <a href="/media/images/odooHack.jpg" className="card-link">
+            <a
+              href="/portfolio/media/images/odooHack.jpg"
+              className="card-link"
+            >
               View certificate
             </a>
             <a

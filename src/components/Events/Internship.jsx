@@ -20,7 +20,7 @@ function Internship() {
               <i>25th August 2025</i> to <i>25th September 2025.</i>
             </p>
             <a
-              href="/media/images/Prashant Kumar Dwivedi_AICTE_Certificate_page-0001.jpg"
+              href="/portfolio/media/images/Internshipcertificate.jpg"
               className="card-link"
             >
               View certificate

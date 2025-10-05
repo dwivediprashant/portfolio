@@ -2,27 +2,27 @@ function Devcard() {
   return (
     <div className="d-flex flex-column">
       <div
-        class="card m-2 p-4"
+        className="card m-2 p-4"
         style={{ width: "100%", height: "max-content" }}
       >
-        <div class="row">
-          <div class="col-4">
+        <div className="row">
+          <div className="col-4">
             <img
-              src="/media/images/Screenshot (250).png"
-              class="img-fluid rounded-start"
+              src="/portfolio/media/images/Screenshot-250.png"
+              className="img-fluid rounded-start"
               alt="..."
             />
           </div>
-          <div class="col-4">
+          <div className="col-4">
             <img
-              src="/media/images/Screenshot (252).png"
-              class="img-fluid rounded-start"
+              src="/portfolio/media/images/Screenshot-252.png"
+              className="img-fluid rounded-start"
               alt="..."
             />
           </div>
-          <div class="col-md-4">
-            <div class="card-body">
-              <h5 class="card-title">
+          <div className="col-md-4">
+            <div className="card-body">
+              <h5 className="card-title">
                 WanderLust : Property Rental Web Application
               </h5>
 
@@ -86,27 +86,27 @@ function Devcard() {
               className="text-decoration-none text-dark p-2 fs-4"
             >
               <span className="fs-6">Go to website</span>&nbsp;
-              <i class="fa-solid fa-earth-americas"></i>
+              <i className="fa-solid fa-earth-americas"></i>
             </a>
           </div>
         </div>
       </div>
       <div
-        class="card m-2 p-4 d-flex flex-wrap"
+        className="card m-2 p-4 d-flex flex-wrap"
         style={{ width: "100%", height: "max-content" }}
       >
-        <div class="row">
-          <div class="col-4">
+        <div className="row">
+          <div className="col-4">
             <img
-              src="/media/images/Screenshot (253).png"
-              class="img-fluid rounded-start"
+              src="/portfolio/media/images/Screenshot-253.png"
+              className="img-fluid rounded-start"
               alt="..."
             />
           </div>
 
-          <div class="col-md-8">
-            <div class="card-body">
-              <h5 class="card-title">Weather React Application</h5>
+          <div className="col-md-8">
+            <div className="card-body">
+              <h5 className="card-title">Weather React Application</h5>
 
               <ul className="card-text">
                 <li>
@@ -157,33 +157,33 @@ function Devcard() {
               className="text-decoration-none text-dark p-2 fs-4"
             >
               <span className="fs-6">Go to website</span>&nbsp;
-              <i class="fa-solid fa-earth-americas"></i>
+              <i className="fa-solid fa-earth-americas"></i>
             </a>
           </div>
         </div>
       </div>
       <div
-        class="card m-2 p-4"
+        className="card m-2 p-4"
         style={{ width: "100%", height: "max-content" }}
       >
-        <div class="row">
-          <div class="col-4">
+        <div className="row">
+          <div className="col-4">
             <img
-              src="/media/images/Screenshot (249).png"
-              class="img-fluid rounded-start"
+              src="/portfolio/media/images/Screenshot-249.png"
+              className="img-fluid rounded-start"
               alt="..."
             />
           </div>
-          <div class="col-4">
+          <div className="col-4">
             <img
-              src="/media/images/Screenshot (254).png"
-              class="img-fluid rounded-start"
+              src="/portfolio/media/images/Screenshot-254.png"
+              className="img-fluid rounded-start"
               alt="..."
             />
           </div>
-          <div class="col-md-4">
-            <div class="card-body">
-              <h5 class="card-title">Stock trading platform</h5>
+          <div className="col-md-4">
+            <div className="card-body">
+              <h5 className="card-title">Stock trading platform</h5>
 
               <ul className="card-text">
                 <li>
@@ -259,8 +259,9 @@ function Devcard() {
               className="text-decoration-none text-dark p-2 fs-4"
               style={{ cursor: "not-allowed" }}
             >
-              <span className="fs-6 text-danger">Under development</span>&nbsp;
-              <i class="fa-solid fa-earth-americas text-danger"></i>
+              <span className="fs-6 text-danger">Under development</span>
+              &nbsp;
+              <i className="fa-solid fa-earth-americas text-danger"></i>
             </a>
           </div>
         </div>

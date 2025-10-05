@@ -77,7 +77,7 @@ function Hero() {
               </li>
               <li>
                 MERN stack developer{" "}
-                <a href="/media/images/certificate-sigma-60-681cba9a8c8e8811e50bf560_page-0001.jpg">
+                <a href="/portfolio/media/images/certificate-sigma-60-681cba9a8c8e8811e50bf560_page-0001.jpg">
                   Certificate (Apna college)
                 </a>
               </li>
@@ -88,7 +88,7 @@ function Hero() {
           {/* Profile Photo & Social */}
           <div className="d-flex flex-column align-items-center text-dark">
             <img
-              src="/media/images/myphoto-modified-removebg-preview.png"
+              src="/portfolio/media/images/myphoto-modified-removebg-preview.png"
               className="profile-photo mb-3"
               alt="logo"
             />

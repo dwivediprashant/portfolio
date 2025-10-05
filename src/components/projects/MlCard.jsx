@@ -3,7 +3,7 @@ function Mlcard() {
     <>
       <div className="card" style={{ width: "30rem" }}>
         <img
-          src="/media/images/AQI-project.png"
+          src="/portfolio/media/images/AQI-project.png"
           className="card-img-top"
           alt="..."
         />
