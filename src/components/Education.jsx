@@ -17,7 +17,9 @@ function Education() {
               Lakshmi Narain College Of Technology, Bhopal, Madhya Pradesh
             </td>
             <td>2027(Expected)</td>
-            <td>8.76</td>
+            <td>
+              8.76 <a href="/portfolio/media/images/Marksheet.jpg">Marksheet</a>
+            </td>
           </tr>
           {/* <tr>
             <td>12th</td>
