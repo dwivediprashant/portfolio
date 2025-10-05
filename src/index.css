@@ -1,0 +1,45 @@
+.profile-photo {
+  height: 300px;
+  width: 300px;
+  object-fit: contain;
+}
+.navbar {
+  background-color: rgb(53, 53, 217);
+  /* background-color: orange; */
+}
+footer {
+  background-color: rgb(53, 53, 217);
+  color: white;
+}
+.tech-stack {
+  height: max-content;
+  width: max-content;
+}
+.dev-card img {
+  width: 100px;
+  height: 100px;
+}
+.certificate-img {
+  width: 100%;
+  object-fit: contain;
+  object-position: center;
+}
+div {
+  transition: background-color 0.4s ease;
+}
+
+div:target {
+  animation: blink 10s ease-in-out;
+}
+
+@keyframes blink {
+  0% {
+    background-color: gray;
+  }
+  50% {
+    background-color: transparent;
+  }
+  100% {
+    background-color: transparent;
+  }
+}
